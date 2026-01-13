@@ -9,6 +9,30 @@
 
 - 📫 How to reach me **gayakeaniket14@gmail.com**
 
+## 🔍 About Me
+
+- Hands-on experience with **Python, SQL, EDA, and Power BI**
+- Worked with **real-world, messy datasets**, including self-collected data (web scraping)
+- Strong focus on **data cleaning, exploratory analysis, and insight-driven storytelling**
+- Comfortable translating **data patterns into business-relevant understanding**
+- Continuously learning, building, and improving through **practical projects**
+
+---
+
+## 🛠️ Tools & Skills
+
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL:** Joins, Aggregations, Subqueries, Analysis Queries  
+- **Power BI:** Interactive Dashboards, DAX, KPIs, Data Modeling  
+- **Excel:** Data Analysis & Visualization  
+- **Web Scraping:** Requests, BeautifulSoup  
+- **Machine Learning:** Data preprocessing, feature engineering, model evaluation
+
+
+
+
+
+
 - 📄 Know about my experiences Data Analyst with hands-on experience in working with data using SQL, Excel, Power BI, and Python. I enjoy analyzing datasets, solving business problems, and creating insights that guide better strategy and decision-making. Currently improving my skills through real-world projects involving dashboards, automation, and data storytelling. Passionate about continuous learning, analytics, and leveraging data to drive meaningful outcomes.](Aspiring Data Analyst with hands-on experience in working with data using SQL, Excel, Power BI, and Python. I enjoy analyzing datasets, solving business problems, and creating insights that guide better strategy and decision-making. Currently improving my skills through real-world projects involving dashboards, automation, and data storytelling. Passionate about continuous learning, analytics, and leveraging data to drive meaningful outcomes.)
 
 - ⚡ Fun fact **Data analysts don’t predict the future — they just read patterns better than most people read text.**
