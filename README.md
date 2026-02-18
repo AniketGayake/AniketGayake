@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Arun Gayake</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst from India</h3>
 
-- 🔭 I’m currently working on **Customer Churn Prediction**
 
 - 💬 Ask me about **Python,Power BI,SQL,Advance Excel,EDA**
 
