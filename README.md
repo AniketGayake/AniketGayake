@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Customer Churn Prediction**
 
-- 🌱 I’m currently learning **Data Analyst with Real time problems**
-
 - 💬 Ask me about **Python,Power BI,SQL,Advance Excel,EDA**
 
 - 📫 How to reach me **gayakeaniket14@gmail.com**
