@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aniket Arun Gayake</h1>
-<h3 align="center">A passionate Data Analyst and Business Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst and Business Analyst With Devloper</h3>
 
 
-- 💬 Ask me about **Python,Power BI,SQL,Advance Excel,EDA**
+- 💬 Ask me about **Python,Power BI,SQL,Advance Excel,EDA,java,Java, Spring Boot, Hibernate, MySQL **
 
 - 📫 How to reach me **gayakeaniket14@gmail.com**
 
 ## 🔍 About Me
 
-- Hands-on experience with **Python, SQL, EDA, and Power BI**
+- Hands-on experience with **Python, SQL, EDA, and Power BI,Java, Spring Boot, Hibernate, MySQL **
 - Worked with **real-world, messy datasets**, including self-collected data (web scraping)
 - Strong focus on **data cleaning, exploratory analysis, and insight-driven storytelling**
 - Comfortable translating **data patterns into business-relevant understanding**
@@ -24,6 +24,7 @@
 - **Excel:** Data Analysis & Visualization  
 - **Web Scraping:** Requests, BeautifulSoup  
 - **Machine Learning:** Data preprocessing, feature engineering, model evaluation
+- ****Machine Learning:** Data preprocessing, feature engineering, model evaluation**
 
 
 
