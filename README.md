@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst and Business Analyst With Devloper</h3>
 
 
-- 💬 Ask me about **Python, Power BI, SQL, Advance Excel, EDA,Java, Spring Boot, Hibernate, MySQL **
+- 💬 Ask me about **Python, Power BI, SQL, Advance Excel, EDA,Java, Spring Boot, Hibernate, MySQL**
 
 - 📫 How to reach me **gayakeaniket14@gmail.com**
 
