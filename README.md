@@ -24,7 +24,7 @@
 - **Excel:** Data Analysis & Visualization  
 - **Web Scraping:** Requests, BeautifulSoup  
 - **Machine Learning:** Data preprocessing, feature engineering, model evaluation
-- ****Machine Learning:** Data preprocessing, feature engineering, model evaluation**
+- **Java, Spring Boot, Hibernate, MySQL** 
 
 
 
