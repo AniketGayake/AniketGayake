@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Arun Gayake</h1>
-<h3 align="center">A passionate Data Analyst and Business Analyst With Devloper</h3>
+<h3 align="center">A passionate Data Analyst and Business Analyst With Developer</h3>
 
 
 - 💬 Ask me about **Python, Power BI, SQL, Advance Excel, EDA,Java, Spring Boot, Hibernate, MySQL**
